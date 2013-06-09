@@ -23,7 +23,7 @@ public class LetsMod
     @PostInit
     public void postInit(FMLPostInitializationEvent event)
     {
-        
+        // A Comment
     }
     
     
