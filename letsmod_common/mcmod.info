@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "LetsMod",
+  "description": "Let's Mod!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    ""
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
